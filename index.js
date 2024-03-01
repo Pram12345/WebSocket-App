@@ -1,14 +1,4 @@
-// const http = require("http");
-// const express = require('express');
-// const path = require("path");
-// const app = express();
-// const server = http.createServer(app);
-// app.get('/', (req,res) =>{
-//     return res.sendFile
-// })
 
-// app.use(express.static(path.resolve("./public")));
-// server.listen(9000, () => console.log(`Server Stated at PORT:9000`));
 
 const http = require("http");
 const express = require('express');
